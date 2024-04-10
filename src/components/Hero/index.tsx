@@ -4,7 +4,7 @@ const Hero = () => {
     return (
       <>
         <S.Logo>
-          <img src="https://via.placeholder.com/300x300" alt="hs" />
+          <img src="https://via.placeholder.com/200x200" alt="hs" />
         </S.Logo>
         <S.Texto>
           <h1>Henrique Sanfilippo</h1>

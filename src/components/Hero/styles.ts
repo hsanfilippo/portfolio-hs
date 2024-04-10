@@ -5,13 +5,13 @@ export const Logo = styled.div`
     display: flex;
     justify-content: space-around;
     `
-    
+
     export const Texto = styled.div`
     display: block;
     text-align: center;
 
     h1 {
-        font-size: 60px;
+        font-size: 50px;
         margin-bottom: 16px;
     }
 
