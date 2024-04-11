@@ -1,13 +1,11 @@
-import Hero from './components/Hero';
-import StackWindow from './components/StackWindow';
 import GlobalContainer from './styles';
+import Home from './containers/Home';
 
 function App() {
   return (
     <>
     <GlobalContainer>
-      <Hero />
-      <StackWindow />
+      <Home />
     </GlobalContainer>
     </>
   );

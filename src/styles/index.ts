@@ -6,4 +6,8 @@ const GlobalContainer = styled.div`
     margin: 0 auto;
 `
 
+export const bgHeroSection = styled.section`
+  background-image: linear-gradient(red, yellow);
+`
+
 export default GlobalContainer

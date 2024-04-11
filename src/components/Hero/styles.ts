@@ -1,21 +1,23 @@
 import styled from 'styled-components'
 
 export const Logo = styled.div`
-    padding: 4vh;
-    display: flex;
-    justify-content: space-around;
-    `
+  padding: 4vh;
+  display: flex;
+  justify-content: space-around;
+  `
 
-    export const Texto = styled.div`
-    display: block;
-    text-align: center;
+export const Texto = styled.div`
+  display: block;
+  text-align: center;
+  color: #fff;
 
-    h1 {
-        font-size: 50px;
-        margin-bottom: 16px;
-    }
+  h1 {
+      font-size: 50px;
+      margin-bottom: 16px;
+  }
 
-    h2 {
-        margin-bottom: 32px;
-    }
+  h2 {
+      margin-bottom: 32px;
+      font-family: monospace;
+  }
 `
